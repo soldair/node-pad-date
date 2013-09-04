@@ -1,0 +1,17 @@
+{
+  "name": "paded-date",
+  "description": "simply create padded date strings",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/soldair/node-paded-date.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "author": "Ryan Day",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.1.0"
+  }
+}
